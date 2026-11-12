@@ -1,0 +1,6 @@
+{
+  "name": "Mars 3D Explorer - American Space Dushanbe",
+  "description": "Интерактивная 3D визуализация планеты Марс и образовательная экспедиция NASA для школьников и студентов American Space в Душанбе.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
